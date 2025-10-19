@@ -70,12 +70,13 @@ Développeur Full Stack passionné avec **5 ans d'expérience** depuis le lycée
 ## 🎨 Projets en production
 
 ### 🌱 [Ecollact.fr](https://ecollact.fr)
-Plateforme de collecte et valorisation de déchets lactés
+Solution énergétique pour la réduction des dépenses énergétiques en entreprise
 
 ### ⚡ [Nadenergie.fr](https://nadenergie.fr)
-Solution énergétique innovante
+Site web vitrine pour une magnétiseuse.
 
-> *Découvrez plus de projets sur mon [portfolio](https://alexisbaron.fr)*
+### [AlexisBaron.fr](https://alexisbaron.fr)
+Portfolio pour présenter mes services et compétences
 
 ---
 
